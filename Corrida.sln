@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKart.Dados", "CorridaKartDados\CorridaKart.Dados.csproj", "{7E04BEE0-15EF-4E59-82DB-2E13206175E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKart.Entidade", "CorridaKartEntidade\CorridaKart.Entidade.csproj", "{C6F99B5C-081B-4D1C-83A4-9C6FE80B591E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKart.Util", "CorridaKartUtil\CorridaKart.Util.csproj", "{A770ACBF-6476-4216-B06F-252738DF8A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKart.Negocio", "CorridaKartNegocio\CorridaKart.Negocio.csproj", "{1F47DA2F-1004-44EC-BA61-B5DED5769A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKart.Test", "CorridaKart.Test\CorridaKart.Test.csproj", "{1CE2F737-499E-45C1-935E-88D2D2154831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorridaKartApp", "CorridaKartApp\CorridaKartApp.csproj", "{3F57B595-3839-4875-80F3-B5140B396131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E04BEE0-15EF-4E59-82DB-2E13206175E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E04BEE0-15EF-4E59-82DB-2E13206175E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E04BEE0-15EF-4E59-82DB-2E13206175E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E04BEE0-15EF-4E59-82DB-2E13206175E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F99B5C-081B-4D1C-83A4-9C6FE80B591E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F99B5C-081B-4D1C-83A4-9C6FE80B591E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F99B5C-081B-4D1C-83A4-9C6FE80B591E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F99B5C-081B-4D1C-83A4-9C6FE80B591E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A770ACBF-6476-4216-B06F-252738DF8A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A770ACBF-6476-4216-B06F-252738DF8A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A770ACBF-6476-4216-B06F-252738DF8A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A770ACBF-6476-4216-B06F-252738DF8A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F47DA2F-1004-44EC-BA61-B5DED5769A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F47DA2F-1004-44EC-BA61-B5DED5769A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F47DA2F-1004-44EC-BA61-B5DED5769A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F47DA2F-1004-44EC-BA61-B5DED5769A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE2F737-499E-45C1-935E-88D2D2154831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE2F737-499E-45C1-935E-88D2D2154831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE2F737-499E-45C1-935E-88D2D2154831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE2F737-499E-45C1-935E-88D2D2154831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F57B595-3839-4875-80F3-B5140B396131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F57B595-3839-4875-80F3-B5140B396131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F57B595-3839-4875-80F3-B5140B396131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F57B595-3839-4875-80F3-B5140B396131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E03D28-4DD6-4ACE-9D74-5F49B4B1A8E3}
+	EndGlobalSection
+EndGlobal
