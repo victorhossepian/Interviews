@@ -1,0 +1,6 @@
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\bin\Debug\CorridaKartEntidade.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\bin\Debug\CorridaKartEntidade.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\obj\Debug\CorridaKart.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\obj\Debug\CorridaKartEntidade.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\obj\Debug\CorridaKartEntidade.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartEntidade\obj\Debug\CorridaKart.Entidade.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartNegocio.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartNegocio.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartDados.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartEntidade.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartUtil.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartDados.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartEntidade.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\bin\Debug\CorridaKartUtil.pdb
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\obj\Debug\CorridaKart.Negocio.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\obj\Debug\CorridaKart.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\obj\Debug\CorridaKart.Negocio.csproj.CopyComplete
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\obj\Debug\CorridaKartNegocio.dll
+C:\Users\victo\Desktop\GymPass\Corrida\CorridaKartNegocio\obj\Debug\CorridaKartNegocio.pdb
